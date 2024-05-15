@@ -41,7 +41,7 @@
       "use": true,
       "release": true
     },
-    "enableKernelSU": true,
+    "enableKernelSU": false,
     "enableLXC": false
   },
   {
@@ -87,7 +87,7 @@
         "branch": "thyme"
       }
     },
-    "enableKernelSU": true,
+    "enableKernelSU": false,
     "enableLXC": false
   },
   {
@@ -150,7 +150,7 @@
       "use": true,
       "release": true
     },
-    "enableKernelSU": true,
+    "enableKernelSU": false,
     "enableLXC": false
   },
   {
